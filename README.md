@@ -24,6 +24,7 @@ Aproveitando o estudo do projeto guiado para exemplificar e aprender melhor como
 Seguindo o estilo recomendado pelo PEP 8, o pylint verifica bugs e otimiza a qualidade do código fonte para a linguagem de programação Python. Ao utilizar a ferramenta, não obtemos o retorno do código analisado, mas uma verificação de erros segundo as recomendações de estilo e uma nota gerada automaticamente segundo os erros. 
 
 Aplicamos a ferramenta pylint no script python localizado no arquivo [trabalho_01_cleancode.py](https://github.com/juliaguardiani/mlops_clean_code/blob/main/trabalho_01_cleancode.py) em busca não só de uma melhoria do código, mas em busca de desenvolver a habilidade de escrever um código limpo. A primeira execução do código pelo pylint está mostrada logo abaixo, com nota negativa de -1.40. 
+
 OBS: para chamar a ferramate: pylint exemplo.py
 
 
